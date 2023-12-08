@@ -13,6 +13,15 @@ pip install -r requirements.txt
 Install, build and run backend for:
 [Prototype Search Application](https://opencode.it4i.eu/openwebsearcheu-public/prototype-search-application)
 
+## Environment
+Please create .env file in main directory of repository. Add your key to .env file
+```env
+OPENAI_API_KEY= <your key goes here> 
+```
+or export it
+```bash
+export OPENAI_API_KEY="<your key goes here>"" 
+```
 ## Usage
 To start the application, run the following command:
 
