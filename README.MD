@@ -17,10 +17,8 @@ Install, build and run backend for:
 To start the application, run the following command:
 
 ```bash
-python main.py
+python -m streamlit run app.py   
 ```
-
-Replace `main.py` with the name of your main Python script.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
