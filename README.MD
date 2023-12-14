@@ -1,5 +1,5 @@
 # Graz Demo Search Engine
-
+![Alt Text](/assets/images/ui.png)
 ## Description
 This is a demo search engine for Graz. It uses advanced AI techniques to provide relevant search results.
 
@@ -9,7 +9,9 @@ To install the necessary dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
-### Prototype Search Backend (Optional)
+### Prototype Search Backend
+**Clone to the same repository**
+
 Install, build and run backend for:
 [Prototype Search Application](https://opencode.it4i.eu/openwebsearcheu-public/prototype-search-application)
 
